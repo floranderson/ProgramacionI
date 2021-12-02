@@ -1,9 +1,2 @@
 Espero que te guste curso.
 
-Atte.
-<<<<<<< HEAD
-
-Saludos.
-=======
-Saludos!!
->>>>>>> NuevaFuncionalidad
